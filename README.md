@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000"  />
+  <img height="150" src="https://img.icons8.com/?size=30&id=12599&format=png&color=000000"  />
 </div>
 
 ###
